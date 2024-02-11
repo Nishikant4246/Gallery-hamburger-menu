@@ -107,3 +107,18 @@ opacity: 0;
 #check:checked ~ .sidebar_menu .btn_two i{
 opacity: 1;
 }
+/* #Transition{
+    animation: TransitionAnimate 2s ease-in 3s 4 normal ;
+}
+@keyframes TransitionAnimate{
+    from{ 
+       width: 10px;
+       background-color: cornflowerblue;
+   }
+    to{
+        width: 300px;
+        background-color: orange;
+        border-radius: 15px;
+        box-shadow: 2px 3px 15px black;
+    }
+   } */
